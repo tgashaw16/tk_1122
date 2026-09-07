@@ -1,5 +1,3 @@
-
-
 var = input("Enter your name :")
 age = int(input("enter you age :"))
 
